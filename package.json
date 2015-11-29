@@ -1,0 +1,22 @@
+{
+  "name": "CloudFlare",
+  "version": "1.0.0",
+  "description": "Auto activate cloudflare when server load is high",
+  "main": "cloudflare.js",
+  "dependencies": {
+    "touch": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HostOnNet/cloudflare-under-attack"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/HostOnNet/cloudflare-under-attack/issues"
+  }
+}
