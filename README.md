@@ -1,6 +1,6 @@
 # CloudFlare Under Attack
 
-This is a simple Node.js script, that run on server every X minutes.
+This is a simple Node.js script (this is my first Node.js script, so it may not perfect), that run on server every X minutes.
 
 It check server load, if load is high, turn on CloudFlare IUAM mode.
 
